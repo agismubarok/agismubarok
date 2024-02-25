@@ -2,7 +2,7 @@
 - 👀 I’m interested in ui web or apss, and frontend dev
 - 🌱 I’m currently learning ui and frontend path
 - 💞️ I’m looking to collaborate on ui & web developer
-- 📫 How to reach me 
+- 📫 I'm currently live in goa
 
 <!---
 agismubarok/agismubarok is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
