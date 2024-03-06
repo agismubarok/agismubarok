@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @agismubarok
+- 👋 Hi, I’m @agismubarok beginner here 
 - 👀 I’m interested in ui web or apss, and frontend dev
 - 🌱 I’m currently learning ui and frontend path
-- 💞️ I’m looking to collaborate on ui & web developer
-- 📫 I'm currently live in goa
+- ❗️ "belajar" (adalah tanda nama, dimana repo saya mengikuti sebuah tutorial)
+- ✅ "berhasil" (adalah tanda nama, dimana repo saya bisa membuat project tanpa melihat kembali tutorial"
 
 <!---
 agismubarok/agismubarok is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
